@@ -1,0 +1,140 @@
+body {
+	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	color: #3b3b3b;
+	margin: 0 50px 0 50px;
+}
+
+h1,h2 {
+	font-family: Arial;
+	text-align: center;
+}
+.desc1 {
+	color: rgb(127, 127, 127);
+	text-align: center;
+	font-size: 16px;
+}
+
+
+h1 {
+	color: rgb(0, 0, 0);
+	padding: 5px;	
+	font-size: 26px;
+}
+
+h2 {
+	color: rgb(0, 0, 0);
+	padding: 5px;	
+	font-size:20px;
+}
+
+h3 {
+	text-align: left;
+	color: rgb(127, 127, 127);
+	border-bottom: 1px solid rgb(0, 0, 0);
+	padding-left: 5px;
+	padding: 1px;
+}
+
+.educação{
+	text-align: center;
+}
+
+.tabela{
+width: 100 ;
+
+}
+
+.icone {
+	height:18px; 
+	bottom: 25px; 
+	right:25px; 
+	z-index:99999;
+}
+
+.qualificação{
+	text-align: left;
+	padding-left: 5px;
+	padding: 1px;
+	color: rgb(5, 5, 5);
+	margin: 20px 0 0 0
+}
+a {
+	text-decoration:none;
+	color: rgb(12, 0, 119);;
+}
+
+a:visited {
+	text-decoration:none;
+	color: rgb(119, 18, 0);
+}
+
+a:hover {
+	text-decoration:none;
+	color: #fa0;
+}
+
+
+.photo {
+	
+	border-radius: 100px;
+	float: left;
+	position: absolute;
+    top: 7%; 
+	left: 5%;
+
+	height: 150px;
+	width: 150px;
+}
+
+#footnote {
+	border-top: 1px dashed #aaa;
+	padding: 5px;
+	font: 75% "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;	
+}
+
+#footnote li {
+	list-style-type: none;
+	margin-top: 3px;
+}
+.logo1{
+	border-radius: 100px;
+	float: left;
+	position: absolute;
+    top: 70%; 
+	right: 5%;
+
+	height: 150px;
+	width: 150px;
+}
+.logo2{
+	border-radius: 100px;
+	float: left;
+	position: absolute;
+	top: 100%;
+	left: 84% ; 
+	
+
+	height: 150px;
+	width: 150px;
+}
+.logo3{
+	border-radius: 100px;
+	float: left;
+	position: absolute;
+	top: 127%;
+	left: 84% ; 
+	
+
+	height: 150px;
+	width: 150px;
+}
+.logo4{
+
+	float: left;
+	position: absolute;
+	top: 149%;
+	left: 85% ; 
+
+	height: 50px;
+	width: 120px;
+}
