@@ -96,17 +96,16 @@ a:hover {
 	list-style-type: none;
 	margin-top: 3px;
 }
-.logo1{
+/* .logo1{
 	border-radius: 100px;
 	float: left;
 	position: absolute;
     top: 70%; 
 	right: 5%;
-
 	height: 150px;
 	width: 150px;
-}
-.logo2{
+} */
+/* .logo2{
 	border-radius: 100px;
 	float: left;
 	position: absolute;
@@ -116,8 +115,8 @@ a:hover {
 
 	height: 150px;
 	width: 150px;
-}
-.logo3{
+} */
+/* .logo3{
 	border-radius: 100px;
 	float: left;
 	position: absolute;
@@ -127,8 +126,8 @@ a:hover {
 
 	height: 150px;
 	width: 150px;
-}
-.logo4{
+} */
+/* .logo4{
 
 	float: left;
 	position: absolute;
@@ -137,4 +136,24 @@ a:hover {
 
 	height: 50px;
 	width: 120px;
+} */
+
+
+div.hypera{
+	justify-content: space-between;
+	display: flex;	
 }
+div.onofre{
+	justify-content: space-between;
+	display: flex;	
+}
+div.dps{
+	justify-content: space-between;
+	display: flex;	
+	
+}
+div.diretoria{
+	justify-content: space-between;
+	display: flex;	
+}
+
