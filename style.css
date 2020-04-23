@@ -126,6 +126,10 @@ a:hover {
 	width: 150px;
 } */
 /* .logo4{
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd20a70ffae1a3768e590abbcdc417b1b7b447af
 	float: left;
 	position: absolute;
 	top: 149%;
@@ -135,6 +139,7 @@ a:hover {
 } */
 
 
+<<<<<<< HEAD
 .hypera{
 	float: right;
 	vertical-align: auto;
@@ -162,3 +167,23 @@ a:hover {
 	height: 50px;
 	width: 90px;	
 }
+=======
+div.hypera{
+	justify-content: space-between;
+	display: flex;	
+}
+div.onofre{
+	justify-content: space-between;
+	display: flex;	
+}
+div.dps{
+	justify-content: space-between;
+	display: flex;	
+	
+}
+div.diretoria{
+	justify-content: space-between;
+	display: flex;	
+}
+
+>>>>>>> dd20a70ffae1a3768e590abbcdc417b1b7b447af
