@@ -96,45 +96,69 @@ a:hover {
 	list-style-type: none;
 	margin-top: 3px;
 }
-.logo1{
+/* .logo1{
 	border-radius: 100px;
 	float: left;
 	position: absolute;
     top: 70%; 
 	right: 5%;
-
 	height: 150px;
 	width: 150px;
-}
-.logo2{
+} */
+/* .logo2{
 	border-radius: 100px;
 	float: left;
 	position: absolute;
 	top: 100%;
 	left: 84% ; 
 	
-
 	height: 150px;
 	width: 150px;
-}
-.logo3{
+} */
+/* .logo3{
 	border-radius: 100px;
 	float: left;
 	position: absolute;
 	top: 127%;
 	left: 84% ; 
 	
-
 	height: 150px;
 	width: 150px;
-}
-.logo4{
-
+} */
+/* .logo4{
 	float: left;
 	position: absolute;
 	top: 149%;
 	left: 85% ; 
-
 	height: 50px;
 	width: 120px;
+} */
+
+
+.hypera{
+	float: right;
+	vertical-align: auto;
+	height: 150px;
+	width: 150px;
+}
+.onofre{	
+	float: right;
+	vertical-align: auto;
+	height: 150px;
+	width: 150px;
+}
+.dps{
+	float: right;
+	vertical-align: right;
+	right: 0px;
+	padding: 0 20px 0 0;	
+	height: 120px;
+	width: 150px;
+}
+.diretoria{
+	float:right; 
+	RIGHT: 0;;
+	padding: 30px 50px 0 0;
+	height: 50px;
+	width: 90px;	
 }
