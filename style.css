@@ -98,43 +98,35 @@ a:hover {
 }
 .logo1{
 	border-radius: 100px;
-	float: left;
-	position: absolute;
-    top: 70%; 
-	right: 5%;
-
 	height: 150px;
 	width: 150px;
+	position: absolute;
+	float: left;
+	left: 85%;
+
 }
 .logo2{
 	border-radius: 100px;
-	float: left;
-	position: absolute;
-	top: 100%;
-	left: 84% ; 
-	
-
 	height: 150px;
 	width: 150px;
+	position: absolute;
+	float: left;
+	left: 85%;
 }
 .logo3{
 	border-radius: 100px;
-	float: left;
+	height: 100px;
+	width: 100px;
 	position: absolute;
-	top: 127%;
-	left: 84% ; 
-	
-
-	height: 150px;
-	width: 150px;
+	float: left;
+	left: 85%;
 }
 .logo4{
 
-	float: left;
-	position: absolute;
-	top: 149%;
-	left: 85% ; 
-
 	height: 50px;
 	width: 120px;
+	position: absolute;
+	float: left;
+	left: 85%;
+	top: 10PX;
 }
